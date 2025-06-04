@@ -1,0 +1,2 @@
+# food-delivery-app
+A full-featured food delivery app developed using the MERN stack (MongoDB, Express.js, React, and Node.js). The app allows users to browse restaurants, view menus, place orders, track deliveries in real-time, and make secure payments. It features responsive design, user authentication, admin controls for managing restaurants and orders, and seamless integration between front-end and back-end services.
